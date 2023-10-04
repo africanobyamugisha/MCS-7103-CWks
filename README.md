@@ -11,5 +11,5 @@ Welcome to my coursework repository! This is where the magic happens for [Course
 
 ##  List
 1. 01_Python_Introduction_Lab.
-2. 
-
+2. 02_employee_attrition_Lab.
+3. 
