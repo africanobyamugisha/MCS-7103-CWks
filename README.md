@@ -1,6 +1,6 @@
 # 🚀 MCS 7103 Machine Learning Courseworks repository
 
-Welcome to my coursework repository! This is where the magic happens for [Course Name]. 🌟
+Welcome to my coursework repository! This is where the magic happens for Machine Learning. 🌟
 
 ## ✨ What's Inside?
 
