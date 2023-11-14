@@ -17,6 +17,6 @@ Welcome to my ML Practice repository!🌟
 
 ## List of Course Works
 1. [**01_Python_Introduction_Lab**](./Assignment%201)
-2. [**02_Employee_Attrition_Lab**](./Assignment%202)
+2. [**02_Employee_Attrition_Lab**](./assignment%202)
 3. [**03_Predicting_Insurance_Lab**](./Assignment%203)
 
