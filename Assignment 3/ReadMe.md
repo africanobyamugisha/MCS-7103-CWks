@@ -1,13 +1,11 @@
-<h1 style="color: green; text-align: center; font-size: 30px; font-weight: bold;">🔮 Predictive Modeling for Insurance Claims 🏦<h1/>
+# 🔮 Predictive Modeling for Insurance Claims 🏦
 
-Welcome to the machine learning lab on Predictive Modeling for Insurance Claims.
+## Explore the project through the following :
+[![The Python Notebook](https://img.shields.io/badge/Access%20Notebook-007bff.svg)](./Predictive%20Modeling%20for%20Insurance%20Claims.ipynb)
 
-## Explore the project through the following buttons:
-[![The Python Notebook](https://img.shields.io/badge/Access%20Notebook-007bff.svg)](./Assignment%203/Predictive%20Modeling%20for%20Insurance%20Claims.ipynb)
+[![Submissions Folder ](https://img.shields.io/badge/Explore%20Submissions-007bff.svg)](./Submission%20Predictions)
 
-[![Submissions Folder ](https://img.shields.io/badge/Explore%20Submissions-007bff.svg)](./Assignment%203/Submission%20Predictions)
-
-[![Task Description](https://img.shields.io/badge/Explore%20Submissions-007bff.svg)](./Assignment%203/Assignment%20Description.pdf)
+[![Task Description](https://img.shields.io/badge/Explore%20Submissions-007bff.svg)](./Assignment%20Description.pdf)
 
 ## Objective
 The main goal of this project is to develop a robust predictive model for determining if a building will have an insurance claim during a specific period, based on various building characteristics. The assignment focuses on exploring and applying four machine learning algorithms: Support Vector Machine (SVM), Linear Regression, k-nearest Neighbors (KNN), and Naive Bayes. The performance of these models will be evaluated using the Area Under the Curve (AUC) metric.
