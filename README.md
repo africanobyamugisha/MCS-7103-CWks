@@ -6,6 +6,7 @@ Welcome to my ML Practice repository!🌟
 - **Name:** Byamugisha Africano
 - **LinkedIn:** [ <i class="fab fa-linkedin"></i>  Connect with me](https://www.linkedin.com/in/africanobyamugisha)
 - **Github:** [ <i class="fab fa-github"></i>  Visit my Github](https://www.github.com/africanobyamugisha)
+- **Website:** [ <i class="fab fa-globe"></i>  Visit my Website](https://africanobyamugisha.netlify.app)
 
 
 ## ✨ What's Inside?
@@ -16,7 +17,8 @@ Welcome to my ML Practice repository!🌟
 - 🎉 **Extras**: Any other coding stuff done during the course.
 
 ## List of Course Works
-1. [**01_Python_Introduction_Lab**](./Assignment%201)
-2. [**02_Employee_Attrition_Lab**](./assignment%202)
-3. [**03_Predicting_Insurance_Lab**](./Assignment%203)
+1. [**01 Python Introduction Lab**](./Assignment%201)
+2. [**02 Employee Attrition Lab**](./Assignment%202/)
+3. [**03 Predicting Insurance Lab**](./Assignment%203/)
+4. [**04 Exploring Resampling Techniques**](./Final%20Assignment/)
 
